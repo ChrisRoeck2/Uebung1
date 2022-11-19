@@ -8,6 +8,6 @@ public class HTTPTargetConcrete : AbstractTarget
 
     public override bool check()
     {
-        throw new NotImplementedException();
+        return true;
     }
 }

@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Uebung1",
+    "\\Uebung1\\Uebung1",
+    "\\Uebung1\\Uebung1KomponentenTests"
   ],
+  "SelectedNode": "\\Uebung1\\Uebung1KomponentenTests\\TelegramSenderConcreteTests.cs",
   "PreviewInSolutionExplorer": false
 }
