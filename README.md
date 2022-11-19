@@ -1,7 +1,7 @@
 # Prog4Uebung1<br>
 ## Lohr, Prauchner, Röck, Weninger<br>
 
-**Übung 1 für Prog4 [GitHub](https://github.com/ChrisRoeck2/Prog4Uebung1)**<br>
+**Übung 1 für Prog4 [GitHub](https://github.com/ChrisRoeck2/Uebung1)**<br>
 
 Angabe: Infrastruktur-Monitoring-Programm<br>
 
@@ -23,3 +23,4 @@ Komponenten/Funktionalität sollte geplant werden:<br>
 
 Klassendiagramm: <br>
 	[Link zu Klassendiagramm]()
+

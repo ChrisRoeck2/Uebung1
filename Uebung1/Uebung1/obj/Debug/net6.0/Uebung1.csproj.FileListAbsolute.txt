@@ -1,0 +1,15 @@
+C:\Users\Hyfly\source\repos\Uebung1\Uebung1\Uebung1\bin\Debug\net6.0\Uebung1.exe
+C:\Users\Hyfly\source\repos\Uebung1\Uebung1\Uebung1\bin\Debug\net6.0\Uebung1.deps.json
+C:\Users\Hyfly\source\repos\Uebung1\Uebung1\Uebung1\bin\Debug\net6.0\Uebung1.runtimeconfig.json
+C:\Users\Hyfly\source\repos\Uebung1\Uebung1\Uebung1\bin\Debug\net6.0\Uebung1.dll
+C:\Users\Hyfly\source\repos\Uebung1\Uebung1\Uebung1\bin\Debug\net6.0\Uebung1.pdb
+C:\Users\Hyfly\source\repos\Uebung1\Uebung1\Uebung1\obj\Debug\net6.0\Uebung1.csproj.AssemblyReference.cache
+C:\Users\Hyfly\source\repos\Uebung1\Uebung1\Uebung1\obj\Debug\net6.0\Uebung1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hyfly\source\repos\Uebung1\Uebung1\Uebung1\obj\Debug\net6.0\Uebung1.AssemblyInfoInputs.cache
+C:\Users\Hyfly\source\repos\Uebung1\Uebung1\Uebung1\obj\Debug\net6.0\Uebung1.AssemblyInfo.cs
+C:\Users\Hyfly\source\repos\Uebung1\Uebung1\Uebung1\obj\Debug\net6.0\Uebung1.csproj.CoreCompileInputs.cache
+C:\Users\Hyfly\source\repos\Uebung1\Uebung1\Uebung1\obj\Debug\net6.0\Uebung1.dll
+C:\Users\Hyfly\source\repos\Uebung1\Uebung1\Uebung1\obj\Debug\net6.0\refint\Uebung1.dll
+C:\Users\Hyfly\source\repos\Uebung1\Uebung1\Uebung1\obj\Debug\net6.0\Uebung1.pdb
+C:\Users\Hyfly\source\repos\Uebung1\Uebung1\Uebung1\obj\Debug\net6.0\Uebung1.genruntimeconfig.cache
+C:\Users\Hyfly\source\repos\Uebung1\Uebung1\Uebung1\obj\Debug\net6.0\ref\Uebung1.dll
