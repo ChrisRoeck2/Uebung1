@@ -4,6 +4,12 @@ class Program
 {
     static void Main(string[] args)
     {
+        AbstractTarget t = new HTTPTargetConcrete();
+        t.getNotificationSenders().Add(new SMSSenderConcrete());
+        Console.WriteLine(t.getNotificationSenders()[0].ToString());
+
+
+        /*
         List<AbstractTarget> targets = new List<AbstractTarget>();
         HTTPTargetConcrete http1 = new HTTPTargetConcrete()
         {
@@ -22,6 +28,6 @@ class Program
         }
 
         Console.WriteLine(targets[0].ToString());
-        Console.ReadKey();
+        Console.ReadKey();*/
     }
 }

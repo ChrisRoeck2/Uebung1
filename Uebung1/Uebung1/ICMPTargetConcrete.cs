@@ -8,6 +8,28 @@ public class ICMPTargetConcrete : AbstractTarget
 
     public override bool check()
     {
-        throw new NotImplementedException();
+		if (Address.Contains("42"))
+		{
+			FailedConsecutiveChecks = 0;
+			return true;
+		}
+		else
+		{
+			FailedConsecutiveChecks++;
+			return false;
+		}
+    }
+
+	public bool testCheck()
+	{
+        foreach (AbstractNotificationSender notification in notificationSenders)
+        {
+            if (FailedConsecutiveChecks >= notification.Threshhold)
+            {
+                notification.Send(FailureMessage);
+				return true;
+            }
+        }
+		return false;
     }
 }
