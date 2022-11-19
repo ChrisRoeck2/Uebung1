@@ -8,6 +8,6 @@ public class HTTPTargetConcrete : AbstractTarget
 
     public override bool check()
     {
-        return true;
+        return base.Address.Contains("42") ? true : false;
     }
 }
